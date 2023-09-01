@@ -23,7 +23,7 @@ Thanks to Engli's phonetic rigidity, once you know the language, you don't need 
 |--------------|---------------|
 | a            | aa            |
 | b            | b             |
-| c            | ch            |
+| c            | th (hard)     |
 | d            | d             |
 | e            | eh            |
 | f            | f             |
