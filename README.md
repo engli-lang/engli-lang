@@ -67,6 +67,12 @@ The Engli sentence is 2 characters shorter. This isn't much of a difference, but
 
 The name "Engli" is written "Eqly" within the language. Capitalization behaves the same way as in English at the moment, and can be ignored in informal contexts such as texting.
 
+## Getting Started
+
+We recommend using the [Engli Translator](https://engli-lang.github.io/engli-web/) once you've read this page, as it's a great starting point to learn Engli. You can also try learning the [Phonetic Rules](#phonetic-rules), they're very easy to pick up. You just need to remember basic things, like always reading Engli's `y` letter as English's `ee` sound in words.
+
+Dictionary coming soon!
+
 ## Is this a serious language?
 
 While we're developing this language for fun, we believe it has many benefits over English.
