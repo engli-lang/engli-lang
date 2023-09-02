@@ -69,7 +69,7 @@ The name "Engli" is written "Eqly" within the language. Capitalization behaves t
 
 ## Getting Started
 
-We recommend using the [Engli Translator](https://engli-lang.github.io/engli-web/) once you've read this page, as it's a great starting point to learn Engli.
+We recommend using the [Engli Translator](https://engli-lang.github.io/engli-web/translator) once you've read this page, as it's a great starting point to learn Engli.
 
 You can also try learning the [Phonetic Rules](#phonetic-rules), they're very easy to pick up. You just need to remember basic things, like always reading Engli's `y` letter as English's `ee` sound in words. Over time, this should get easier, until you're able to read Engli words very quickly.
 
